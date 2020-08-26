@@ -12,9 +12,9 @@
 
 4.  [印章论坛](https://forum.paranoiaseal.website) 👍（别问我为啥有钱买域名~~，问就是我脑瘫~~ 没人来的站 /(ㄒoㄒ)/~~
 
-5.  [Seal Software Bank 印章软件园](https://apps.paranoiaseal.website) **重点大事** 我搭建这个东西我网站崩了三次（悲 （软件园这个设想早就有了，我们不希望有广告希望纯粹的下载体验，原计划使用 Github Pages 后来还是改成了 WordPress（（（
+5.  [Seal Software Bank 印章软件园](https://apps.paranoiaseal.website) **重点大事** 我搭建这个东西我网站崩了三次（悲 （软件园这个设想早就有了，我们不希望有广告希望纯粹的下载体验，原计划使用 Github Pages 后来还是改成了 WordPress（（（~~评论一次给嘤嘤饭 DiCK 补上一部分~~
 
-    *别看了，就这 5 个，没了（*
+    *别看了，就这 5 个，无了（*
 
 
 
