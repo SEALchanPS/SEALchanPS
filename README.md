@@ -10,9 +10,9 @@
 
 3.  [嘤嘤饭站](https://SEALchanPS.github.io/YingyingChan) 👧（~~别问为啥域名这么长，没钱买短域名的我大悲（~~ 日常迫害组员嘤嘤饭 ~~大家快去我 Seal Software Bank 下评论吧，DiCK 是真的（~~ 
 
-4.  [印章论坛](https://forum.paranoiaseal.website) 👍（别问我为啥有钱买域名~~，问就是我脑瘫~~ 没人来的站 /(ㄒoㄒ)/~~
+4.  [Seal Software Bank 印章软件园](https://apps.paranoiaseal.website) 🌈**重点大事** 我搭建这个东西我网站崩了三次（悲 （软件园这个设想早就有了，我们不希望有广告希望纯粹的下载体验，原计划使用 Github Pages 后来还是改成了 WordPress（（（~~评论一次给嘤嘤饭 DiCK 补上一部分~~
 
-5.  [Seal Software Bank 印章软件园](https://apps.paranoiaseal.website) 🌈**重点大事** 我搭建这个东西我网站崩了三次（悲 （软件园这个设想早就有了，我们不希望有广告希望纯粹的下载体验，原计划使用 Github Pages 后来还是改成了 WordPress（（（~~评论一次给嘤嘤饭 DiCK 补上一部分~~
+5. **压轴大戏** <font color="red" size=5>震撼全场</font>：企业文化 **印章机器人** SEALbot，前后部署于 企业微信 ~~<font size=1>第三范式傻逼</font>~~，QQ ~~<font size=2>腾讯傻逼</font>~~，Telegram。虽然用的框架不一样（CoolQ 都没了（恼），但是的确是 **企业文化**
 
     *别看了，就这 5 个，无了（*
 
