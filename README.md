@@ -1,4 +1,4 @@
-### Github 的各位大家好，我是来自 Paranoia Seal 和 HeartBeat 的 SEALchan 👋
+### Github 的各位大家好，我是来自 Paranoia Seal 的 SEALchan 👋
 
 
 
