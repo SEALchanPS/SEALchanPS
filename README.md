@@ -12,9 +12,11 @@
 
 4.  ~~[Seal Software Bank 印章软件园](https://apps.paranoiaseal.website) 🌈**重点大事** 我搭建这个东西我网站崩了三次（悲 （软件园这个设想早就有了，我们不希望有广告希望纯粹的下载体验，原计划使用 Github Pages 后来还是改成了 WordPress（（~~ （~~评论一次给嘤嘤饭 DiCK 补上一部分~~ 服务器无了（悲
 
-5. **压轴大戏** <font color="red" size=5>震撼全场</font>：企业文化 **印章机器人** SEALbot，前后部署于 企业微信 ~~<font size=1>第三范式傻逼</font>~~，QQ ~~<font size=2>腾讯傻逼</font>~~，Telegram。虽然用的框架不一样（CoolQ 都没了（恼），但是的确是 **企业文化**
+5. **压轴大戏** <font color="red" size=5>震撼全场</font>：企业文化 **印章机器人** SEALbot，前后部署于 企业微信 ~~<font size=1>第三范式傻逼</font>~~，QQ ~~<font size=2>腾讯傻逼</font>~~，Telegram。虽然用的框架不一样（CoolQ 都没了（恼），但是的确是 **企业文化** [注: 2021.2.15 更新, SEALbot 已经全部弃坑]
 
     *别看了，就这 5 个，无了（*
+    
+    [注: 2021.2.15 更新, SEALvirus 马上完工]
 
 
 
@@ -27,7 +29,7 @@
 
 -   ***SEALchan 的 好 友 介绍一下罢（迫真好友***
 
-    给大家介绍一下我好友 ~~<font size=1>老婆</font>~~  [Github@PatriciaOfEnd](https://github.com/PatriciaOfEnd) (单方面双关 ~~单关（bushi~~)
+    给大家介绍一下我好友 ~~<font size=1>男同</font>~~  [Github@PatriciaOfEnd](https://github.com/PatriciaOfEnd) (单方面双关 ~~单关（bushi~~)
 
     
 
