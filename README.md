@@ -1,6 +1,6 @@
-### Github 的各位大家好，我是来自 Paranoia Seal 的 SEALchan 👋
+### HIHI THIS IS THEGODSC!!! 👋 w
 
-
+<!-- 这个 算不算 变相扩列啊（-->
 
 #### SEALchan 主要作品
 
