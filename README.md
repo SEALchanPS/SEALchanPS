@@ -6,7 +6,7 @@
 
 1.  ParaChat 👯‍♂️（算是 Paranoia Seal 第一个没有弃坑完成的作品了，虽然源文件找不到而且 ParaChat 服务器已经无了（不知道有没有人知道 ParaChat Alpha 版部署在 SEALchan 家里的树莓派上 ~~我知道你不知道我知道~~
 
-2.  [Paranoia Seal Blog](https://blog.paranoiaseal.website) 🌍（可以说是一个比较成功的网站了，虽然内容很少很草（（
+2.  [SEALchan's Blog!](https://blog.paranoiaseal.website) 🌍 新 博 客 ~~（可以说是一个比较成功的网站了，虽然内容很少很草（（~~ （原 站 服 务 器 没 了）
 
 3.  [嘤嘤饭站](https://SEALchanPS.github.io/YingyingChan) 👧（~~别问为啥域名这么长，没钱买短域名的我大悲（~~ 日常迫害组员嘤嘤饭 ~~大家快去我 Seal Software Bank 下评论吧，DiCK 是真的（~~ 
 
@@ -29,7 +29,7 @@
 
 -   ***SEALchan 的 好 友 介绍一下罢（迫真好友***
 
-    给大家介绍一下我好友 ~~<font size=1>男同</font>~~  [Github@PatriciaOfEnd](https://github.com/PatriciaOfEnd) (单方面双关 ~~单关（bushi~~)
+    [2021.5.23 更新] 我有 8 个特别关心!!懒得介绍了）
 
     
 
@@ -67,7 +67,6 @@
 
 
 
-<font size=6> 感谢各位对 Paranoia Seal 和 HeartBeat 的支持！</font>
+<font size=6> 感谢各位对 Paranoia Seal 和 Doki Doki Ruohann Club（唐突） 的支持！</font>
 
-SEALchan 我先走一步（（
-
+<!-- 然后就是板板 YYDS-->
